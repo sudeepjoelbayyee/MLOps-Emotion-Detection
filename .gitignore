@@ -3,7 +3,10 @@ __pycache__/
 *.py[cod]
 myenv
 models
-data
+data/external
+data/interim
+data/processed
+data/raw
 
 # C extensions
 *.so
