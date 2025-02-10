@@ -2,11 +2,13 @@
 __pycache__/
 *.py[cod]
 myenv
-models
+
 data/external
 data/interim
 data/processed
 data/raw
+
+
 
 # C extensions
 *.so
